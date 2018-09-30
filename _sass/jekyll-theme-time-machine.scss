@@ -70,6 +70,23 @@ p.tagline {
   color: #fff;
 }
 
+.download-bar .nav {
+  display: flex;
+  justify-content: center;
+}
+
+.download-bar .next {
+  float: left;
+}
+
+.download-bar .home {
+  margin: auto;
+}
+
+.download-bar .prev {
+  float: right;
+}
+
 .download-bar .watch-fork iframe {
   display: block;
   float: left;
